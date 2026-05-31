@@ -47,7 +47,7 @@ Web-based management system built on real workshop workflows.
 - Stack: `Laravel` `MySQL`
 ---
 
-### [Bengkel Lengkoan Website](https://github.com/gitnyaDanil/manado-steel-solutions)
+### 🔧 [Bengkel Lengkoan Website](https://github.com/gitnyaDanil/manado-steel-solutions)
 Production website for a steel repair and machining workshop in Manado.
 - Built a responsive business website with service pages, gallery, contact form, and embedded map
 - Used **TanStack Start** for server-rendered React routing and SEO-friendly pages
