@@ -46,6 +46,13 @@ Web-based management system built on real workshop workflows.
 - Modeled database for orders, invoices, and payments
 - Stack: `Laravel` `MySQL`
 ---
+
+### [Bengkel Lengkoan Website](https://github.com/gitnyaDanil/manado-steel-solutions)
+Production website for a steel repair and machining workshop in Manado.
+- Built a responsive business website with service pages, gallery, contact form, and embedded map
+- Used **TanStack Start** for server-rendered React routing and SEO-friendly pages
+- Configured **Netlify deployment** for a full-stack SSR app with a custom domain
+- Stack: `TypeScript` `React` `TanStack Start` `Vite` `Tailwind CSS` `Netlify`
  
 ## 📫 Get in Touch
  
