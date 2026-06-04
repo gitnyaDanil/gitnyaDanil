@@ -41,7 +41,7 @@ Real-time chatbot with text and speech interaction powered by OpenAI.
 - Stack: `Django` `HTMX` `OpenAI API`
 ---
  
-### 🔧 [Repair Order Management System](https://github.com/gitnyaDanil/repair-order-management)
+### 🔧 [Repair Order Management System](https://github.com/gitnyaDanil/repair-shop-service)
 Web-based management system built on real workshop workflows.
 - Modeled database for orders, invoices, and payments
 - Stack: `Laravel` `MySQL`
