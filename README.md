@@ -36,7 +36,7 @@ API-driven async processing system that enhances audio quality using AI.
 - Stack: `Laravel` `Docker` `PyTorch` `FFmpeg`
 ---
  
-### 📖 [TinyTales AI](https://github.com/gitnyaDanil/tinytales-ai)
+### 📖 [TinyTales AI](https://github.com/gitnyaDanil/TinyTales)
 AI storyteller that explains complex topics to a 5-year-old using simple analogies.
 - Built a **Next.js 14 API route** as a secure server-side proxy — API key never exposed to the browser
 - Designed a **provider-agnostic architecture** supporting DeepSeek, OpenAI, and local models via **LM Studio**
