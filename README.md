@@ -36,9 +36,12 @@ API-driven async processing system that enhances audio quality using AI.
 - Stack: `Laravel` `Docker` `PyTorch` `FFmpeg`
 ---
  
-### 🤖 [AI Chatbot Website](https://github.com/gitnyaDanil/LLM-Chatbot-with-Chat-GPT)
-Real-time chatbot with text and speech interaction powered by OpenAI.
-- Stack: `Django` `HTMX` `OpenAI API`
+### 📖 [TinyTales AI](https://github.com/gitnyaDanil/tinytales-ai)
+AI storyteller that explains complex topics to a 5-year-old using simple analogies.
+- Built a **Next.js 14 API route** as a secure server-side proxy — API key never exposed to the browser
+- Designed a **provider-agnostic architecture** supporting DeepSeek, OpenAI, and local models via **LM Studio**
+- Crafted a hand-drawn notebook UI in pure CSS (spiral rings, lined pages, sticky notes, page-curl cards)
+- Stack: `Next.js` `React` `LM Studio` `DeepSeek API` `CSS`
 ---
  
 ### 🔧 [Repair Order Management System](https://github.com/gitnyaDanil/repair-shop-service)
